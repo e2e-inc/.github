@@ -10,5 +10,5 @@ we'd love to hear from you:
 
 - chat with us on [Discord](https://e2e.com/discord) - get help, share
   feedback, and connect with the community
-- follow us [X](https://x.com/testerarmy)
-- read our latest thinking on the [e2e blog](https://tester.army/blog)
+- follow us [X](https://x.com/e2e-inc)
+- read our latest thinking on the [e2e blog](https://e2e.com/blog)
