@@ -1,32 +1,14 @@
-# Welcome to TesterArmy
+<img width="1500" height="500" alt="Image" src="./profile/assets/banner.png" />
 
-At TesterArmy, we're on a mission to make end-to-end testing effortless.
+# welcome to e2e
 
----
+At e2e, we're building the software verification layer for the agentic coding era and it's open source: [e2e](https://github.com/e2e-inc/e2e).
 
-> [!IMPORTANT]
-> TesterArmy tests the actual website, not just the diff, so you know it works before users see it.
+## get in touch
 
----
+we'd love to hear from you:
 
-## What We Focus On
-
-- Production Monitoring
-- Testing both mobile and web apps
-- Integration with your existing developer tools
-
----
-
-## Get in Touch
-
-We'd love to hear from you:
-
-- 💬 Chat with us on [Discord](https://tester.army/discord) — get help, share
+- chat with us on [Discord](https://e2e.com/discord) - get help, share
   feedback, and connect with the community
-- 🐦 Follow our journey on [X / Twitter](https://x.com/testerarmy)
-- 📝 Read our latest thinking on the [TesterArmy Blog](https://tester.army/blog)
-- 📬 Questions or looking for a custom plan? Reach out: **hello@tester.army**
-
----
-
-_Backed by [Y Combinator](https://www.ycombinator.com/companies/testerarmy). Built for teams who care about quality._
+- follow us [X](https://x.com/e2e)
+- read our latest thinking on the [e2e blog](https://e2e.com/blog)
